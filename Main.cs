@@ -7,6 +7,8 @@
 
         // Conflict
 
-        Console.WriteLine('Nazem');
+        Console.WriteLine("Nazem");
+        Console.WriteLine("Manar");
+
     }
 }
