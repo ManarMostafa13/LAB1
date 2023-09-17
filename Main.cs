@@ -7,6 +7,6 @@
 
         // Conflict
 
-        Console.WriteLine('Nazem');
+        Console.WriteLine("Nazem0");
     }
 }
