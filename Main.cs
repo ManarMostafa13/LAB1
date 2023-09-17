@@ -4,5 +4,9 @@
     {
         TestApp Test = new TestApp();
         Test.Method();
+
+        // Conflict
+
+        Console.WriteLine('Nazem');
     }
 }
